@@ -8,7 +8,7 @@ public class GreetingController {
 	
 	@GetMapping("sayHello")
 	public String sayHello() {
-		return  "It is wowrking fine !";
+		return  "It is wowrking fine Herambha !";
 	}
 
 	@Override
